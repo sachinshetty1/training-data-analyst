@@ -1,0 +1,22 @@
+g-cloud commands
+
+gcloud init
+
+gcloud init --console-only
+
+ 
+gcloud auth list
+
+gcloud config list
+
+gcloud info
+
+gcloud help
+
+gcloud help compute instances create
+
+creating google compute instance
+
+gcloud compute instances create example-instance --zone us-east1-c
+
+kubectl run wordpress --image=sachinshetty/wordpress --port=80
